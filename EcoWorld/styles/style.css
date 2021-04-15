@@ -48,12 +48,10 @@ header{
     display: grid;
     justify-content: center;
     align-content: center;
-}
-
-.nav-bar a{
     font-family: 'Rancho', cursive;
     font-size: 1em;
     color: #f8efba;
+    cursor: pointer;
 }
 
 .abs-pos {
